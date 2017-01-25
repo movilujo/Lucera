@@ -1,4 +1,4 @@
-# Lucera
+# Luzera
 Proyecto en fase experimental
 
 # Licencia
