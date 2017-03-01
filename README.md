@@ -1,5 +1,6 @@
-# Luzera
 <img src="images/Logo.png" width="300" align = "center">
+
+# Luzera
 
 Proyecto en fase experimental
 
