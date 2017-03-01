@@ -1,4 +1,6 @@
 # Luzera
+<img src="images/Logo.png" width="300" align = "center">
+
 Proyecto en fase experimental
 
 # Licencia
